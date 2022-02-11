@@ -1,0 +1,13 @@
+name: jsph_repository
+description: Fake data repository
+version: 1.0.0
+
+publish_on: 'none'
+
+environment:
+  sdk: '>=2.9.0 <3.0.0'
+
+dependencies:
+  http: any
+  shared_preferences: any
+  meta: any
